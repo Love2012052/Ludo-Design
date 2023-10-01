@@ -8,13 +8,14 @@
 .game {
   display: flex;
   flex-wrap: wrap;
-  margin: 20px auto;
+  margin: 20px 20px;
   position: relative;
-  width: 500px;
-  height: 500px;
+  width: 700px;
+  height: 700px;
 }
 .green {
   background-color: #66bb6a;
+  
 }
 .red {
   background-color: #e53935;
